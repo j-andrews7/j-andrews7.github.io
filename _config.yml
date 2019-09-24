@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Jared Andrews"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.png"
   bio    : "I'm a PhD student in Molecular Genetics and Genomics at Washington University. My research integrates large-scale 'omics data to help understand and better treat cancer."
   location: "St. Louis, MO"
   links:
