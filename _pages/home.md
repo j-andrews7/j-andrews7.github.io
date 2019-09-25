@@ -2,5 +2,7 @@
 permalink: /
 layout: single
 author_profile: true
+title: "Welcome!"
 ---
-Testing
+
+This website serves as a portfolio of both my professional and personal projects. 

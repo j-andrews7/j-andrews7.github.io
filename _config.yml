@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-scholar
 
 author:
   name   : "Jared Andrews"
@@ -74,7 +75,7 @@ author:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/jared-andrews-431252107"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:jared.andrews07@gmail.com"
 
 footer:
@@ -89,7 +90,7 @@ footer:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/jared-andrews-431252107"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:jared.andrews07@gmail.com"
 
 defaults:
