@@ -1,6 +1,6 @@
 ---
 title: "Genotify"
-excerpt: "A one-stop shop for comprehensive gene annotations."
+excerpt: "A one-stop shop for quick, comprehensive gene annotations."
 header:
   teaser: /assets/images/genotify.png
 sidebar:
