@@ -18,6 +18,7 @@ gallery:
   - url: https://raw.githubusercontent.com/j-andrews7/Genotify/master/docs/img/5.gif
     image_path: https://raw.githubusercontent.com/j-andrews7/Genotify/master/docs/img/5.gif
     alt: "Interactive expression data"
+classes: wide
 ---
 
 Originally a weekend project centered around trying to learn some javascript to build something that'd be useful, [Genotify]((https://github.com/j-andrews7/Genotify)) turned into a tool that I use on a daily basis for quick manual curation of short gene lists. The idea grew out of a [Chrome extension](https://chrome.google.com/webstore/detail/genotify/mjlnpmhdfpdgcapoggcinelpooediipn?hl=en) of the same name that provided in-text gene function annotations within a browser that was created with a friend in my first year of grad school. 
