@@ -20,7 +20,11 @@ gallery:
     alt: "Interactive expression data"
 ---
 
-Genotify is a light-weight, cross-platform desktop application for quick gene annotations. If you're a molecular biology researcher or bioinformaticist, you likely find yourself Googling gene names relatively frequently, especially when doing a heavy lit review or poring through tables of differentially expressed genes. **Genotify** provides up-to-date gene info and access to multiple interactive widgets without opening a browser. Simply copy a gene name, ID, or symbol to your clipboard and use `ctrl+q` (or `cmd+q`) to query for that gene. Limit by species if you so desire. Click any of the resulting text boxes to copy them to your clipboard.
+Originally a weekend project centered around trying to learn some javascript to build something that'd be useful, [Genotify]((https://github.com/j-andrews7/Genotify)) turned into a tool that I use on a daily basis for quick manual curation of short gene lists. The idea grew out of a [Chrome extension](https://chrome.google.com/webstore/detail/genotify/mjlnpmhdfpdgcapoggcinelpooediipn?hl=en) of the same name that provided in-text gene function annotations within a browser that was created with a friend in my first year of grad school. 
+
+If you're a molecular biologist or bioinformaticist, you likely find yourself Googling gene names relatively frequently, especially when doing a heavy lit review or poring through tables of differentially expressed genes. 
+
+Genotify provides up-to-date gene info and access to multiple interactive widgets without opening a browser. Simply copy a gene name, ID, or symbol to your clipboard and use `ctrl+q` (or `cmd+q`) to query for that gene. Limit by species if you so desire. Click any of the resulting text boxes to copy them to your clipboard.
 
 This program aims to give you access to all of the resources you could ever want for a gene, from links to all of the major databases to functional summaries. Hopefully it does it well.
 
