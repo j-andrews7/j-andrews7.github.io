@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Big Data | Cancer Research | College Hoops Fan
 twitter_username: JMA_Data
 github_username: j-andrews7
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
