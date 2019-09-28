@@ -3,6 +3,7 @@ permalink: /about/
 layout: single
 author_profile: true
 title: "About"
+classes: wide
 ---
 
 I began my research career at the University of Louisville studying host-pathogen interactions of the anther smut fungus *Microbotryum violaceum* in the lab of Dr. Michael Perlin while obtaining a bachelor's degree in Biology. Now I'm pursuing a Ph.D. in Molecular Genetics and Genomics in the lab of Jacqueline Payton at Washington University in St. Louis. A self-proclaimed "damp" lab, we study epigenomic and transcriptional deregulation in T and B cell lymphomas through integrated discovery-based 'omics followed by experimental validation and further functional studies in *in vitro* systems. This environment has allowed me to acquire skills from bench to command line - I can generate the data, analyze it, and perform the functional assays to biologically validate the findings.
