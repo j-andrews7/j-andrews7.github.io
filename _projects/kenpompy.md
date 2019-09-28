@@ -1,6 +1,6 @@
 ---
 title: "kenpompy"
-excerpt: "A python webscraper for analytics-guru Ken Pomeroy's site."
+excerpt: "A python webscraper for NCAA basketball analytics-guru Ken Pomeroy's site."
 header:
   teaser: /assets/images/kenpompy_unsplash.png
 sidebar:
