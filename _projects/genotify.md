@@ -8,6 +8,8 @@ sidebar:
     image: /assets/images/genotify.png
     image_alt: "logo"
     text: "Creator, Maintainer"
+  - title: "Status"
+    text: "Stable"
 gallery:
   - url: https://raw.githubusercontent.com/j-andrews7/Genotify/master/docs/img/2.gif
     image_path: https://raw.githubusercontent.com/j-andrews7/Genotify/master/docs/img/2.gif

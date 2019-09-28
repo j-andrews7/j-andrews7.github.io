@@ -6,6 +6,8 @@ header:
 sidebar:
   - title: "Role"
     text: "Creator, Maintainer"
+  - title: "Status"
+    text: "Stable"
 classes: wide
 ---
 

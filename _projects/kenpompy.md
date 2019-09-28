@@ -8,6 +8,8 @@ sidebar:
     image: /assets/images/kenpompy_splash.png
     image_alt: "logo"
     text: "Creator, Maintainer"
+  - title: "Status"
+    text: "Under developement"
 classes: wide
 ---
 
