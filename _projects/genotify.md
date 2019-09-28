@@ -2,7 +2,7 @@
 title: "Genotify"
 excerpt: "A one-stop shop for quick, comprehensive gene annotations."
 header:
-  teaser: /assets/images/genotify.png
+  teaser: /assets/images/genotify_unsplash.png
 sidebar:
   - title: "Role"
     image: /assets/images/genotify.png
