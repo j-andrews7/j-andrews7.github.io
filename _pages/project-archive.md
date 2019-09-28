@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Below are links to many of my projects, professional or otherwise. Some may be in progress.
+Below are links to projects I created and maintain or contributed to, professional or otherwise. Some may be in progress.
