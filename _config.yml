@@ -91,6 +91,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:jared.andrews07@gmail.com"
+    - label: "CV"
+      url: "https://j-andrews7.github.io/assets/AndrewsJ_CV_2020.pdf"
 
 footer:
   links:

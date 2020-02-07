@@ -15,8 +15,8 @@ Below are links to projects I created and maintain or contributed to, profession
 
  - [biopython](https://github.com/biopython/biopython) - A vast suite of Python tools for computational biology and bioinformatics.
 
- - [dittoSeq](https://github.com/dtm2451/dittoSeq) - An R package for color-blind friendly visualization of single-cell and bulk RNA-seq data. Drastically improves typical scRNA-seq visualizations and has some new ones of its own.
+ - [dittoSeq](https://github.com/dtm2451/dittoSeq) - An R package for color-blind friendly visualization of single-cell and bulk RNA-seq data. Dramatically improves typical scRNA-seq visualizations and has some new ones of its own.
 
- - [ncaahoopR](https://github.com/lbenz730/ncaahoopR) - An R package for working with NCAA basketball play by play data. Scraps ESPN play by play data, box scores, and shot location data, providing a number of visualizations as well.
+ - [ncaahoopR](https://github.com/lbenz730/ncaahoopR) - An R package for working with NCAA basketball play by play data. Scrapes ESPN play by play data, box scores, and shot location data, providing a number of visualizations as well.
 
 ### Projects I maintain or created:
